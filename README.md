@@ -1,2 +1,1 @@
-# iraxon.github.io
-Programming tutorial resources
+# Club Tutorials
