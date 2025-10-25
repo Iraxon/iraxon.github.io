@@ -1,3 +1,0 @@
-# Tutorial: Github Account
-
-WIP
