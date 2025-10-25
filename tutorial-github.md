@@ -16,6 +16,6 @@ GitHub itself will provide a mini-tutorial that teaches you how to make a reposi
 
 GitHub is not an integrated development environment (IDE). You will not go to GitHub to write code. Its purpose is to allow you to save and share code. (Codespaces, made by the same company, is an IDE, but it is not recommended.)
 
-## Next steps
+## Next up
 
 - [VSCode and Git](https://iraxon.github.io/tutorial-vscode-git)
