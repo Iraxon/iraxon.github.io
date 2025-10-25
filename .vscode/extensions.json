@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "davidanson.vscode-markdownlint",
+        "github.vscode-pull-request-github",
+        "shardulm94.trailing-spaces"
+    ]
+}
