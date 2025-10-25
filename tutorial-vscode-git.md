@@ -60,6 +60,6 @@ Now that you have the repository set up, you will not need to go to GitHub that 
 
 Go to Source Control. Observe that your change (adding the file) is visible there. Stage it with the plus icon on the change.
 
-Put a commit message describing your change in the box at the top and then commit the change. Next, synchronize it to GitHub.
+Put a commit message describing your change in the box at the top and then commit the change. Next, sync it to GitHub.
 
 Go to the GitHub repository in your browser and observe that the file you created is now visible there. (You will not need to go check it in the future; this is just to demonstrate how it works.)
